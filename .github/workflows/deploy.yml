@@ -1,0 +1,63 @@
+# Construit le Jupyter Book et le publie sur GitHub Pages.
+# Prérequis : dans Settings > Pages du dépôt, choisir Source = "GitHub Actions".
+
+name: Deploy Jupyter Book to GitHub Pages
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+env:
+  # Le site est servi depuis https://<compte>.github.io/2026_09_apm51051ep :
+  # BASE_URL doit valoir /<nom du dépôt>. Sur un dépôt nommé <compte>.github.io,
+  # le site est à la racine du domaine et BASE_URL doit être vide.
+  BASE_URL: /${{ github.event.repository.name }}
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+# Un seul déploiement à la fois, sans annuler celui qui est en cours.
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    defaults:
+      run:
+        # Shell de connexion : l'environnement conda est activé à chaque étape.
+        shell: bash -el {0}
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Setup Pages
+        uses: actions/configure-pages@v5
+
+      - name: Install the conda environment
+        uses: conda-incubator/setup-miniconda@v3
+        with:
+          miniforge-version: latest
+          environment-file: environment.yml
+          activate-environment: apm51051
+          use-mamba: true
+
+      - name: Build the book
+        # --execute est indispensable : les notebooks ne contiennent pas de sorties,
+        # les figures sont produites lors de la construction.
+        run: jupyter book build --html --execute
+
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: ./_build/html
+
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4

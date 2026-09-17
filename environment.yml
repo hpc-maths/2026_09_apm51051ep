@@ -1,0 +1,14 @@
+name: apm51051
+channels:
+  - conda-forge
+dependencies:
+  - jupyter-book=2.1.6
+  - ipykernel
+  - numpy
+  - scipy
+  - sympy
+  - matplotlib
+  - mpmath
+  - plotly
+  # standard-imghdr n'est plus nécessaire : c'était un correctif pour
+  # nbconvert/Sphinx sous Python >= 3.13, or Jupyter Book 2 n'utilise plus Sphinx.

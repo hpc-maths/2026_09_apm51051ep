@@ -1,0 +1,41 @@
+version: 1
+
+project:
+  title: APM51051EP
+  authors:
+    - name: Marc Massot
+  copyright: "2026"
+
+  settings:
+    parser:
+      dollarmath: true
+
+  toc:
+    - file: content/home.md
+    - file: content/mode_emploi.md
+    - file: content/intro_notebook.ipynb
+    - file: content/latex.md
+    - title: Lectures
+      children:
+      - file: content/cours/cours.md
+      - file: content/cours/notebooks.md
+        children:
+          - file: content/cours/02_brusselator.ipynb
+          - file: content/cours/02_lorenz.ipynb
+          - file: content/cours/02_celestial_mechanics.ipynb
+    - title: Petites Classes
+      children:
+      - file: content/pc/pc01_intro.md
+        children:
+          - file: content/pc/pc01.ipynb
+      - file: content/pc/pc02_intro.md
+        children:
+          - file: content/pc/pc02_pendulum.ipynb
+          - file: content/pc/pc02_population.ipynb
+
+site:
+  template: book-theme
+  options:
+    logo: logo_apm_51051_ep.svg
+    favicon: logo_apm_51051_ep.svg
+    # use_repository_button : rien à déclarer,
