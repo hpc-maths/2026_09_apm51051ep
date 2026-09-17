@@ -40,8 +40,8 @@
 
 **Material for lecture 2:**
 
-- [Slides of lecture 2]()
+- [Slides of lecture 2](https://moodle.ip-paris.fr/pluginfile.php/493150/mod_folder/content/0/presAPM51051_Cours2_Sept2026.pdf?forcedownload=1)
 
-- [Handwritten lecture notes]()
+- [Handwritten lecture notes](https://moodle.ip-paris.fr/pluginfile.php/493150/mod_folder/content/0/APM51051EP_Massot_Series_2026_2027_Notes_de_Cours2.pdf?forcedownload=1)
 
-- [Additional bibliographic material]()
+- [Additional bibliographic material](https://moodle.ip-paris.fr/pluginfile.php/493150/mod_folder/content/0/APM51051EP_histoire_theorie_Cours2_Massot_2026_2027.zip?forcedownload=1)
