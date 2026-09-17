@@ -13,14 +13,14 @@
 
 **Material for lecture 1:**
 
-- [Slides of lecture 1](https://moodle.ip-paris.fr/pluginfile.php/231558/mod_folder/content/0/APM51051_Intro_Massot_2025_2026.pdf?forcedownload=1)
-- [Slides about examples of "multiscale reactive media"](https://moodle.ip-paris.fr/pluginfile.php/231558/mod_folder/content/0/Exemples_CoursAPM51051EP_2025_2026.pdf?forcedownload=1)
+- [Slides of lecture 1](https://moodle.ip-paris.fr/pluginfile.php/493148/mod_folder/content/0/APM51051_Intro_Massot_2026_2027.pdf?forcedownload=1)
+- [Slides about examples of "multiscale reactive media"](https://moodle.ip-paris.fr/pluginfile.php/493148/mod_folder/content/0/Exemples_CoursAPM51051EP_2026_2027.pdf?forcedownload=1)
 
 - [Video: "The Dancing Flame" by Daniel Durox](https://youtu.be/oTzOHjhBZFY)
 
 - [Video: "Flame Organ" by Daniel Durox](https://youtu.be/rI37T3vA7fM)
 
-- Two videos of Sinai billiards with very slightly different initial conditions, [here](https://moodle.ip-paris.fr/pluginfile.php/231558/mod_folder/content/0/sinai.mp4?forcedownload=1) and [there](https://moodle.ip-paris.fr/pluginfile.php/231558/mod_folder/content/0/sinai1.mp4?forcedownload=1), created by R. Zamansky.
+- Two videos of Sinai billiards with very slightly different initial conditions, [here](https://moodle.ip-paris.fr/pluginfile.php/493148/mod_folder/content/0/sinai.mp4?forcedownload=1) and [there](https://moodle.ip-paris.fr/pluginfile.php/493148/mod_folder/content/0/sinai1.mp4?forcedownload=1), created by R. Zamansky.
 
 
 ## Lecture 2: Theory I - Conservative and dissipative systems
@@ -40,8 +40,8 @@
 
 **Material for lecture 2:**
 
-- [Slides of lecture 2](https://moodle.ip-paris.fr/pluginfile.php/231560/mod_folder/content/0/presAPM51051_Cours2_Sept2025.pdf?forcedownload=1)
+- [Slides of lecture 2]()
 
-- [Handwritten lecture notes](https://moodle.ip-paris.fr/pluginfile.php/231560/mod_folder/content/0/APM51051EP_Massot_Series_2025_2026_Notes_de_Cours2.pdf?forcedownload=1)
+- [Handwritten lecture notes]()
 
-- [Additional bibliographic material](https://moodle.ip-paris.fr/pluginfile.php/231560/mod_folder/content/0/APM51051EP_histoire_theorie_Cours2_Massot_2025_2026.zip?forcedownload=1)
+- [Additional bibliographic material]()
