@@ -36,7 +36,7 @@ For this mode, simply download the Jupyter notebooks from this site and copy the
 
 ```{admonition} Using the JupyterHub of the school
 
-- In a browser, go to the [JupyterHub of the school](https://jupytercloud.idcs.polytechnique.fr), click on the `jupyter` link and then on the `Sign in with CNRS/INSMI/Mathrice OpenID-Connect Provider` button
+- In a browser, go to the [JupyterHub of the school](https://lysithea.polytechnique.fr), click on the `jupyter` link and then on the `Sign in with CNRS/INSMI/Mathrice OpenID-Connect Provider` button
 
 
 - Select the institution Ecole Polytechnique Palaiseau, then use your polytechnique credentials to log in to the platform
