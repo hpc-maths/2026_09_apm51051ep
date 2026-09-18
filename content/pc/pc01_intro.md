@@ -9,7 +9,7 @@ bring a precise understanding on the dynamics of the system and its qualitative 
 
 
 ```{note}
-The PC statement is available [here]()
+The PC statement is available [here](https://moodle.ip-paris.fr/pluginfile.php/493149/mod_folder/content/0/pc1.pdf?forcedownload=1)
 ```
 
 <!-- #region -->
