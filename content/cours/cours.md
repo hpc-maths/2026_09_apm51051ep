@@ -44,4 +44,6 @@
 
 - [Handwritten lecture notes](https://moodle.ip-paris.fr/pluginfile.php/493150/mod_folder/content/0/APM51051EP_Massot_Series_2026_2027_Notes_de_Cours2.pdf?forcedownload=1)
 
+- [Lecture notes](https://moodle.ip-paris.fr/pluginfile.php/493150/mod_folder/content/0/APM51051EP_Massot_2026_2027_Cours2_Systemes_Dynamiques_EDO.pdf?forcedownload=1)
+
 - [Additional bibliographic material](https://moodle.ip-paris.fr/pluginfile.php/493150/mod_folder/content/0/APM51051EP_histoire_theorie_Cours2_Massot_2026_2027.zip?forcedownload=1)
