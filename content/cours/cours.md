@@ -47,3 +47,23 @@
 - [Lecture notes](https://moodle.ip-paris.fr/pluginfile.php/493150/mod_folder/content/0/APM51051EP_Massot_2026_2027_Cours2_Systemes_Dynamiques_EDO.pdf?forcedownload=1)
 
 - [Additional bibliographic material](https://moodle.ip-paris.fr/pluginfile.php/493150/mod_folder/content/0/APM51051EP_histoire_theorie_Cours2_Massot_2026_2027.zip?forcedownload=1)
+
+# Lecture 3: Numerics I - Basic notions, consistency, stability and convergence
+
+```{admonition} Monday, October 6
+
+- Numerical approximation of dissipative differential systems and applications
+- Classical schemes in the non-stiff case, issues associated with the stiffness of systems
+- Notions of order and stability of numerical schemes
+- Application to differential systems from the application fields mentioned previously
+
+>  Petite classe associated with the lecture: [PC3 - Numerical integration of ordinary differential equations (Part I)](../pc/pc03_intro.md)
+```
+
+**Material for lecture 3:**
+
+- [Slides of lecture 3]()
+
+- [Notes of lecture 3]()
+
+- [Additional bibliographic material]()

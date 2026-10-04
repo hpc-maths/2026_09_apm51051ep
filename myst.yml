@@ -10,6 +10,9 @@ project:
     parser:
       dollarmath: true
 
+  math:
+    '\sign': '\operatorname{sign}'
+
   toc:
     - file: content/home.md
     - file: content/mode_emploi.md
@@ -23,6 +26,9 @@ project:
           - file: content/cours/02_brusselator.ipynb
           - file: content/cours/02_lorenz.ipynb
           - file: content/cours/02_celestial_mechanics.ipynb
+          - file: content/cours/03_three_body_problem.ipynb
+          - file: content/cours/03_explosion_order1.ipynb
+          - file: content/cours/03_adaptive_step_size_euler.ipynb
     - title: Petites Classes
       children:
       - file: content/pc/pc01_intro.md
@@ -32,6 +38,11 @@ project:
         children:
           - file: content/pc/pc02_pendulum.ipynb
           - file: content/pc/pc02_population.ipynb
+      - file: content/pc/pc03_intro.md
+        children:
+          - file: content/pc/pc03_peano.ipynb
+          - file: content/pc/pc03_curtiss.ipynb
+          - file: content/pc/pc03_three_body_problem.ipynb
 
 site:
   template: book-theme
