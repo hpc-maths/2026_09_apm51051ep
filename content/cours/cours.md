@@ -50,7 +50,7 @@
 
 # Lecture 3: Numerics I - Basic notions, consistency, stability and convergence
 
-```{admonition} Monday, October 6
+```{admonition} Monday, October 5
 
 - Numerical approximation of dissipative differential systems and applications
 - Classical schemes in the non-stiff case, issues associated with the stiffness of systems
