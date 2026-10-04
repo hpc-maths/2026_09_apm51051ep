@@ -62,8 +62,8 @@
 
 **Material for lecture 3:**
 
-- [Slides of lecture 3]()
+- [Slides of lecture 3](https://moodle.ip-paris.fr/pluginfile.php/493153/mod_folder/content/0/presAPM51051EP_Cours3_Oct2026.pdf?forcedownload=1)
 
-- [Notes of lecture 3]()
+- [Lecture Notes](https://moodle.ip-paris.fr/pluginfile.php/493153/mod_folder/content/0/APM51051EP_Polycopie_Chap123.pdf?forcedownload=1)
 
-- [Additional bibliographic material]()
+- [Additional bibliographic material](https://moodle.ip-paris.fr/pluginfile.php/493153/mod_folder/content/0/APM51051EP_histoire_Cours3_Series_Massot_2026_27.zip?forcedownload=1)
