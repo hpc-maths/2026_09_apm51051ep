@@ -48,7 +48,7 @@
 
 - [Additional bibliographic material](https://moodle.ip-paris.fr/pluginfile.php/493150/mod_folder/content/0/APM51051EP_histoire_theorie_Cours2_Massot_2026_2027.zip?forcedownload=1)
 
-# Lecture 3: Numerics I - Basic notions, consistency, stability and convergence
+## Lecture 3: Numerics I - Basic notions, consistency, stability and convergence
 
 ```{admonition} Monday, October 5
 
@@ -67,3 +67,29 @@
 - [Lecture Notes](https://moodle.ip-paris.fr/pluginfile.php/493153/mod_folder/content/0/APM51051EP_Polycopie_Chap123.pdf?forcedownload=1)
 
 - [Additional bibliographic material](https://moodle.ip-paris.fr/pluginfile.php/493153/mod_folder/content/0/APM51051EP_histoire_Cours3_Series_Massot_2026_27.zip?forcedownload=1)
+
+## Lecture 4: Numerics II - High order schemes - Runge-Kutta
+
+```{admonition} Monday, October 12
+
+- Runge-Kutta methods
+- Order conditions and stability with respect to perturbations
+- Explicit and implicit methods
+- Stability (A-, L- and B-stability)
+
+>  Petite classe associated with the lecture: [PC4 - Numerical integration of ordinary differential equations (Part II)](../pc/pc04_intro.md)
+>
+>  **Second PC report, covering PC 3 and PC 4.
+>  The parts to be handed in are indicated in the subjects.
+>  Due before Sunday, October 18, 8 pm.**
+```
+
+**Material for lecture 4:**
+
+- [Slides of lecture 4](https://moodle.ip-paris.fr/pluginfile.php/493155/mod_folder/content/0/presAPM51051EP_Cours4_Oct2026.pdf?forcedownload=1)
+
+- [Lecture Notes](https://moodle.ip-paris.fr/pluginfile.php/493155/mod_folder/content/0/APM51051EP_Polycopie_Chap1234.pdf?forcedownload=1)
+
+- [Additional bibliographic material](https://moodle.ip-paris.fr/pluginfile.php/493155/mod_folder/content/0/APM51051EP_Biblio_Complementaire_Cours4.zip?forcedownload=1)
+
+- [Additional historical bibliographic material](https://moodle.ip-paris.fr/pluginfile.php/493155/mod_folder/content/0/APM51051EP_histoire_oscillations_PC4_Massot_2026_2027.zip?forcedownload=1)

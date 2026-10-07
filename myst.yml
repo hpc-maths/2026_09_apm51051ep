@@ -29,6 +29,9 @@ project:
           - file: content/cours/03_three_body_problem.ipynb
           - file: content/cours/03_explosion_order1.ipynb
           - file: content/cours/03_adaptive_step_size_euler.ipynb
+          - file: content/cours/04_curtiss_rk.ipynb
+          - file: content/cours/04_explosion_rk.ipynb
+          - file: content/cours/04_error_analysis.ipynb
     - title: Petites Classes
       children:
       - file: content/pc/pc01_intro.md
@@ -43,7 +46,11 @@ project:
           - file: content/pc/pc03_peano.ipynb
           - file: content/pc/pc03_curtiss.ipynb
           - file: content/pc/pc03_three_body_problem.ipynb
-
+      - file: content/pc/pc04_intro.md
+        children:
+          - file: content/pc/pc04_stability.ipynb
+          - file: content/pc/pc04_brusselator.ipynb
+          - file: content/pc/pc04_vanderpol.ipynb
 site:
   template: book-theme
   options:
