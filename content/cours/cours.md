@@ -93,3 +93,22 @@
 - [Additional bibliographic material](https://moodle.ip-paris.fr/pluginfile.php/493155/mod_folder/content/0/APM51051EP_Biblio_Complementaire_Cours4.zip?forcedownload=1)
 
 - [Additional historical bibliographic material](https://moodle.ip-paris.fr/pluginfile.php/493155/mod_folder/content/0/APM51051EP_histoire_oscillations_PC4_Massot_2026_2027.zip?forcedownload=1)
+
+## Lecture 5: Theory II - Singular points, stability, bifurcation
+
+```{admonition} Monday, October 19
+
+- Analysis of hyperbolic singular points and topological classification of the dynamics in the neighborhood of an equilibrium point
+- Stability of equilibrium points
+- Detection of bifurcation points and continuation methods
+- Presentation of the mini-projects
+
+>  Petite classe associated with the lecture: [PC5 - Dynamics around critical points, hyperbolicity, continuation and bifurcations](../pc/pc05_intro.md)
+```
+
+**Material for lecture 5:**
+
+- [Slides of lecture 5](https://moodle.ip-paris.fr/pluginfile.php/493158/mod_folder/content/0/presAPM51051_Cours5_Oct2026.pdf?forcedownload=1)
+- [Notes of lecture 5](https://moodle.ip-paris.fr/pluginfile.php/493158/mod_folder/content/0/APM51051EP_Polycopie_Chap12345.pdf?forcedownload=1)
+- [Additional bibliographic material: stability and non-autonomous systems](https://moodle.ip-paris.fr/pluginfile.php/493158/mod_folder/content/0/APM51051EP_complements_stabilite_nonautonomes_Cours5.zip?forcedownload=1)
+- [Additional bibliographic material: bifurcations](https://moodle.ip-paris.fr/pluginfile.php/493158/mod_folder/content/0/APM51051_histoire_complements_Cours5.zip?forcedownload=1)

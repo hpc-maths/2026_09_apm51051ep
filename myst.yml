@@ -51,6 +51,11 @@ project:
           - file: content/pc/pc04_stability.ipynb
           - file: content/pc/pc04_brusselator.ipynb
           - file: content/pc/pc04_vanderpol.ipynb
+      - file: content/pc/pc05_intro.md
+        children:
+          - file: content/pc/pc05_brusselator.ipynb
+          - file: content/pc/pc05_explosion.ipynb
+          - file: content/pc/pc05_bead.ipynb
 site:
   template: book-theme
   options:
