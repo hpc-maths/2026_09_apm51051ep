@@ -112,3 +112,42 @@
 - [Notes of lecture 5](https://moodle.ip-paris.fr/pluginfile.php/493158/mod_folder/content/0/APM51051EP_Polycopie_Chap12345.pdf?forcedownload=1)
 - [Additional bibliographic material: stability and non-autonomous systems](https://moodle.ip-paris.fr/pluginfile.php/493158/mod_folder/content/0/APM51051EP_complements_stabilite_nonautonomes_Cours5.zip?forcedownload=1)
 - [Additional bibliographic material: bifurcations](https://moodle.ip-paris.fr/pluginfile.php/493158/mod_folder/content/0/APM51051_histoire_complements_Cours5.zip?forcedownload=1)
+
+# Lecture 6: Theory III - Invariant manifolds and bifurcation theory
+
+```{admonition} Monday, November 2
+
+- Analysis and classification of bifurcations
+- Normal forms and symmetry
+- Applications in chemistry, fluid mechanics, population dynamics, fluid mechanics
+
+>  Petite classe associated with the lecture: [PC6 - Invariant manifolds and bifurcation theory](../pc/pc06_intro.md)
+>
+>  **Third PC report, covering PC 3 and PC 4. This report is optional and counted as a bonus.
+>  The parts to be handed in are indicated in the subjects.
+>  Due before Sunday, November 8, 8 pm.**
+```
+
+**Material for lecture 6:**
+
+- [Slides of lecture 6](https://moodle.ip-paris.fr/pluginfile.php/493160/mod_folder/content/0/presAPM51051EP_Cours6_Nov2026.pdf?forcedownload=1)
+- [Notes of lecture 6](https://moodle.ip-paris.fr/pluginfile.php/493160/mod_folder/content/0/APM51051EP_Polycopie_Chap1234567.pdf?forcedownload=1)
+
+## Lecture 7: Numerics III - Advanced integrators
+
+
+```{admonition} Monday, November 9
+
+- Advanced numerical methods for the integration of systems of ordinary differential equations (operator splitting, ROCK4, RADAU5 .
+..)
+- Analysis of the asymptotic behavior of systems in the presence of small parameters
+
+>  Petite classe associated with the lecture: [PC7 - Advanced numerical methods for ODEs - Towards spatially extended systems](../pc/pc07_intro.md)
+```
+
+**Material for lecture 7:**
+
+- [Slides of lecture 7](https://moodle.ip-paris.fr/pluginfile.php/493163/mod_folder/content/0/presAPM51051EP_Cours7_20262027.pdf?forcedownload=1)
+- [Lecture notes ](https://moodle.ip-paris.fr/pluginfile.php/493163/mod_folder/content/1/APM51051EP_Massot_Cours_Notes_Cours7.zip?forcedownload=1)
+- [Historical papers](https://moodle.ip-paris.fr/pluginfile.php/493163/mod_folder/content/0/APM51051EP_histoire_Cours7_Massot_2026_2027.zip?forcedownload=1)
+- [Additional bibliographic material](https://moodle.ip-paris.fr/pluginfile.php/493163/mod_folder/content/0/APM51051EP_histoire_Cours7_Massot_2026_2027.zip?forcedownload=1)

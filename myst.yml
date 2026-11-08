@@ -32,6 +32,7 @@ project:
           - file: content/cours/04_curtiss_rk.ipynb
           - file: content/cours/04_explosion_rk.ipynb
           - file: content/cours/04_error_analysis.ipynb
+          - file: content/cours/07_rock2.ipynb
     - title: Petites Classes
       children:
       - file: content/pc/pc01_intro.md
@@ -56,6 +57,13 @@ project:
           - file: content/pc/pc05_brusselator.ipynb
           - file: content/pc/pc05_explosion.ipynb
           - file: content/pc/pc05_bead.ipynb
+      - file: content/pc/pc06_intro.md
+      - file: content/pc/pc07_intro.md
+        children:
+          - file: content/pc/pc07_vanderpol.ipynb
+          - file: content/pc/pc07_heat.ipynb
+          - file: content/pc/pc07_nagumo.ipynb
+
 site:
   template: book-theme
   options:
