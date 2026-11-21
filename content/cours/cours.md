@@ -151,3 +151,26 @@
 - [Lecture notes ](https://moodle.ip-paris.fr/pluginfile.php/493163/mod_folder/content/1/APM51051EP_Massot_Cours_Notes_Cours7.zip?forcedownload=1)
 - [Historical papers](https://moodle.ip-paris.fr/pluginfile.php/493163/mod_folder/content/0/APM51051EP_histoire_Cours7_Massot_2026_2027.zip?forcedownload=1)
 - [Additional bibliographic material](https://moodle.ip-paris.fr/pluginfile.php/493163/mod_folder/content/0/APM51051EP_histoire_Cours7_Massot_2026_2027.zip?forcedownload=1)
+
+
+## Lecture 8: Spatially extended systems - Traveling waves and Turing patterns
+
+```{admonition} Monday, November 23
+
+- The case of spatially extended systems and the associated stiffness
+- Traveling waves, operator splitting techniques for the simulation of parabolic traveling waves
+- Heteroclinic and homoclinic trajectories
+- Turing patterns
+- IMEX / Splitting methods
+
+>  Petite classe associated with the lecture: [PC8 - Spatially extended systems of equation Equilibria, traveling waves and Turing patterns](../pc/pc08_intro.md)
+>
+>  **Fourth PC report, covering PC 7 and PC 8.
+>  The parts to be handed in are indicated in the subjects.
+>  Due before Sunday, November 30, 8 pm.**
+```
+
+**Material for lecture 8:**
+
+- [Slides of lecture 8](https://moodle.ip-paris.fr/pluginfile.php/493165/mod_folder/content/0/presAPM51051EP_Cours8_20262027.pdf?forcedownload=1)
+- [Additional bibliographic material](https://moodle.ip-paris.fr/pluginfile.php/231578/mod_folder/content/0/Material%20APM%2051051%20EP%20KdV%20Massot.zip?forcedownload=1)

@@ -63,6 +63,10 @@ project:
           - file: content/pc/pc07_vanderpol.ipynb
           - file: content/pc/pc07_heat.ipynb
           - file: content/pc/pc07_nagumo.ipynb
+      - file: content/pc/pc08_intro.md
+        children:
+          - file: content/pc/pc08_turing_bz_imex.ipynb
+          - file: content/pc/pc08_thermal_explosion.ipynb
 
 site:
   template: book-theme
