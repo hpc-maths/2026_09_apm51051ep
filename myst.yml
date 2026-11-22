@@ -69,7 +69,9 @@ project:
           - file: content/pc/pc08_thermal_explosion.ipynb
 
 site:
-  template: book-theme
+  # Version du thème figée : "book-theme" prend toujours la dernière version, qui peut
+  # exiger un mystmd plus récent que celui fourni par jupyter-book=2.1.6 (environment.yml).
+  template: https://github.com/jupyter-book/myst-theme/releases/download/myst-to-react%401.4.1/book-theme.zip
   options:
     logo: logo_apm_51051_ep.svg
     favicon: logo_apm_51051_ep.svg
